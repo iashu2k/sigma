@@ -348,6 +348,12 @@ h6 {
   right: 15px;
 }
 
+.faculty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 /* Mobile Navigation */
 
 .mobile-nav {
